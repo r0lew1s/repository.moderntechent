@@ -1,0 +1,481 @@
+<items>
+        <item>
+        <title>[COLOR=white]~~~~~~~~~~~HD ENTERTAINMENT~~~~~~~~~~~[/COLOR]</title>
+        <link>none</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Bein Sports[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10646
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]TSN 1 HD[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10636
+</link>
+        <thumbnail></thumbnail>
+        </item>
+		
+        <item>
+        <title>[COLOR=blue]TSN 2 HD[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10635
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]TSN 3 HD[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10634
+</link>
+        <thumbnail></thumbnail>
+        </item>
+		
+        <item>
+        <title>[COLOR=blue]TSN 4 HD[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10633
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]TSN 5 HD[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10632
+</link>
+        <thumbnail></thumbnail>
+        </item>
+		
+        <item>
+        <title>[COLOR=blue]PAC-12 Arizona HD[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10642
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]PAC-12 Bay Area HD[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10641
+</link>
+        <thumbnail></thumbnail>
+        </item>
+		
+        <item>
+        <title>[COLOR=blue]PAC-12 Los Angeles HD[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10638
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]PAC-12 Mountain HD-[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10441
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]PAC-12 Oregon HD[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10440
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]A&E[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10429
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]ABC[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10428
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]CNBC[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10403
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]CNN[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10390
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]MTV[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10387
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Starz[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10386
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]SyFy[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10384
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]TBS[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10380
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]TNT[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10405
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]VH1[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10402
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]History[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10401
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Nat Geo Wild[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10424
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]NatGeo[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10421
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Discovery Science[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10436
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Bloomberg[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10434
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Cartoon Network[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10420
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Disney Channel[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10419
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Disney Junior[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10397
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Nick Junior[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10396
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Nick Toons[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10433
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]CBS Sport[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10432
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]CBS[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10411
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]HBO Comedy[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10410
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]HBO Signature[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10409
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]HBO[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10408
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Animal Planet[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10439
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]BET[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10645
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Bravo[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10435
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]CINEMAX[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10431
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]DISCOVERY FAMILY[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10423
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Discovery Investigation[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10422
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Fox sport 1[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10416
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Fox sport 2[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10415
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]FX[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10414
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]GSN[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10412
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]HGTV[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10407
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]History[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10406
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Life Time[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10404
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]NBA[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10400
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]NBC EAST [/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10399
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]NBCSN[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10398
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]NEWS 12[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10643
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]OWN[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10395
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]SHOWTIME FAMILY ZONE[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10393
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]SLICE[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10392
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Syfy[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10388
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]STARZ KIDS & Family[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10389
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]TLC[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10385
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]TRU TV[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10383
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]TV Land[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10382
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]Viceland TV[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10379
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]WE[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10378
+</link>
+        <thumbnail></thumbnail>
+        </item>		
+				
+        <item>
+        <title>[COLOR=blue]Weather channel[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10377
+</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[COLOR=blue]WWE[/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/bana/bana/10376</link>
+        <thumbnail></thumbnail>
+        </item>
+			
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+       
+</items>
