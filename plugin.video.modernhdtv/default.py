@@ -60,7 +60,7 @@ addon_id     = xbmcaddon.Addon().getAddonInfo('id') # Grab our add-on id
 home         = xbmc.translatePath('special://home') # Set the path of the home Kodi folder
 
 # Our master XML we want to load up
-main_xml     = 'http://totalrevolution.tv/xmls/main_menu.xml'
+main_xml     = 'https://raw.githubusercontent.com/r0lew1s/repository.moderntechent/master/zips/plugin.video.modernhdtv/main_menu.xml'
 
 # Alternatively you could set a local XML but online obviously means less add-on updates to push
 # main_xml     = os.path.join(home,'addons',addon_id,'resources','video.xml')
